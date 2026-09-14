@@ -1,0 +1,17 @@
+name: study
+channels:
+  - pytorch
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.12
+  - numpy
+  - pandas
+  - matplotlib
+  - requests 
+  - beautifulsoup4
+  - notebook
+  - jupyterlab
+  - pydantic
+  - python-dotenv
+  - selenium
